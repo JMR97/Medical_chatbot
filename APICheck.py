@@ -1,7 +1,7 @@
 import pinecone
 
 # Set your Pinecone API key here
-PINECONE_API_KEY = "pcsk_79w6Vc_8MGpWAL1MCgKDaUmWYof4XpG93HjuGGib4PHPMYeneowvhbcr8scNgiRmCom6KW"
+PINECONE_API_KEY = "**"
 
 # Initialize Pinecone client
 pinecone.init(api_key=PINECONE_API_KEY)
