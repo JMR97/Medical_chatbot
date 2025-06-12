@@ -12,6 +12,7 @@ Project repo: [https://github.com/](https://github.com/JMR97/Medical-Chatbot-AI.
 STEP 01- Create a conda environment after opening the repository
 
 `conda create -n medichatbotenv python=3.10 -y`
+
 `conda activate medichatbotenv`
 
 STEP 02- install the requirements
